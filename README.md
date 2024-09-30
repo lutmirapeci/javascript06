@@ -1,7 +1,3 @@
-# BrainsterChallenges_LutmiraPeciFE3
-
-## Challenge-13
-
 ### Overview: Study Timer
 
 ```
